@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
-    <vedio
+    <video
       width="520"
       height="300"
       controls=""
