@@ -1,10 +1,10 @@
 <template>
   <q-page class="flex flex-center">
-    <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
-    >
+    <vedio
+      width="520"
+      height="300"
+      controls=""
+      :src="'./Scratch.mp4'" />
   </q-page>
 </template>
 
